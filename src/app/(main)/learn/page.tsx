@@ -9,7 +9,7 @@ export default function LearnPage() {
     <div className="flex flex-row-reverse gap-[48px] px-6">
       <StickyWrapper>
         <UserProgress
-          activeCourse={{ title: "Spanish", imageSrc: "/flag/es.svg" }}
+          activeCourse={{ title: "Spanish", imageSrc: "/flags/es.svg" }}
           heart={5}
           points={100}
           hasActiveSubscription={false}

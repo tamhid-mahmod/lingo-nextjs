@@ -9,7 +9,7 @@ export const Footer = () => {
         <Button size="lg" variant="ghost" className="w-full">
           <Image
             className="mr-4 rounded-md"
-            src="/flag/bd.svg"
+            src="/flags/bd.svg"
             alt="Bengali"
             height={32}
             width={40}
@@ -20,7 +20,7 @@ export const Footer = () => {
         <Button size="lg" variant="ghost" className="w-full">
           <Image
             className="mr-4 rounded-md"
-            src="/flag/hr.svg"
+            src="/flags/hr.svg"
             alt="Croatian"
             height={32}
             width={40}
@@ -31,7 +31,7 @@ export const Footer = () => {
         <Button size="lg" variant="ghost" className="w-full">
           <Image
             className="mr-4 rounded-md"
-            src="/flag/es.svg"
+            src="/flags/es.svg"
             alt="Spanish"
             height={32}
             width={40}
@@ -42,7 +42,7 @@ export const Footer = () => {
         <Button size="lg" variant="ghost" className="w-full">
           <Image
             className="mr-4 rounded-md"
-            src="/flag/fr.svg"
+            src="/flags/fr.svg"
             alt="French"
             height={32}
             width={40}
@@ -53,7 +53,7 @@ export const Footer = () => {
         <Button size="lg" variant="ghost" className="w-full">
           <Image
             className="mr-4 rounded-md"
-            src="/flag/it.svg"
+            src="/flags/it.svg"
             alt="Italian"
             height={32}
             width={40}
@@ -64,7 +64,7 @@ export const Footer = () => {
         <Button size="lg" variant="ghost" className="w-full">
           <Image
             className="mr-4 rounded-md"
-            src="/flag/jp.svg"
+            src="/flags/jp.svg"
             alt="Japanese"
             height={32}
             width={40}
